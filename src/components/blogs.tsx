@@ -10,7 +10,8 @@ export default function Blogs() {
           Read our latest news
         </h2>
         <p className="mt-1 text-gray-600">
-          We've helped some great companies brand, design and get to market.
+          We&apos;ve helped some great companies brand, design and get to
+          market.
         </p>
       </div>
 

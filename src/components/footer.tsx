@@ -74,7 +74,7 @@ export default function Footer() {
                   Careers
                 </a>{" "}
                 <span className="inline-block ms-1 text-xs bg-[#FCEE21] text-black py-1 px-2 rounded-lg">
-                  We're hiring
+                  We&apos;re hiring
                 </span>
               </p>
               <p>
